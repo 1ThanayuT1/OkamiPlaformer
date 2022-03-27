@@ -1,0 +1,2 @@
+Library/PlayerDataCache/Win64/Data/sharedassets1.resource (238.00 MB)
+Final4exe/Final4_Data/sharedassets1.resource (238.00 MB)
